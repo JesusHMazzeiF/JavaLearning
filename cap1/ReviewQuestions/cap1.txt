@@ -1,0 +1,22 @@
+Review Answers:
+Cap 1
+1 - B, E, F (B,E its always object orientated)
+2 - D, F(C,D use classname not filename)
+3 - C, D - OK
+4 - C, D - OK
+5 - A, C, D, E - OK
+6 - E - OK
+7 - A(A,B,C - import by class name take precedence over wildcard)
+8 - A, B - OK
+9 - B - OK
+10 - E - OK
+11 - C, D, E - (C,D - No sideways compatibility whatever that is)
+12 - C, E - OK
+13 - C - OK
+14 - A, B, E - (A,B,C,E jar allows classpath too)
+15 - E - OK
+16 - D - OK
+17 - A, E - OK
+18 - C, D, E - OK 
+19 - B, C - OK 
+20 - A, B, E - OK

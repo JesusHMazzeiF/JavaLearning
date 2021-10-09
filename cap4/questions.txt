@@ -1,0 +1,20 @@
+1 - A, B, C, E, F, G - Good
+2 - E (B - Else statements correspond to different ifs)
+3 - F (E - print statement does not compile after continue)
+4 - C, E, F (C,E - FUCKING AMBIGUOS F)
+5 - D (B, D. B - check B again) 
+6 - G (B,C,E. B- CHECK QUESTION AGAIN)  - CHECK WHY IT COMPILES
+7 - D (E - Multiple compilation errors)
+8 - F (C - Does compile, check again)
+9 - G - Good
+10 - G (B, D, F - It does compile Check again)
+11 - F - Good
+12 - A, B ,D - Good
+13 - B, D (B, E - E, The first loop executes 5 times with the loop ending when participants has a value of 10)
+14 - E - Good
+15 - ? - (A, E. The most important thing is to never reach the do while since it is infinite. CHECK AGAIN)
+16 - E - Good
+17 - F - Good
+18 - A, D (A,D,E. E - right side must be array or class that implements Iterable, which includes the collection interface)
+19 - D - Good
+20 - D - (F. Does not contain compilation errors. infinite loop. CHECK AGAIN)

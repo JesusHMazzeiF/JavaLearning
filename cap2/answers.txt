@@ -1,0 +1,31 @@
+Exam essentials:
+- Be able to recognize a constructor
+- Be able to identify legal and illegal declaration and initialization
+- Be able to use var correctly
+- Be able to determine where variables fo out of scope
+- Know how to identify when an object is eligible for garbage collection
+
+
+Review Questions:
+1) B, E, G - Good
+2) G(D,F,G. d - boolean initilizes to false, F- Object references initialize to null)
+3) B, D, H (B, D, E, H. E - E is a valid numeric expression)
+4) A, D, E (A, B, D, E. B - 2.0 is double literal value, not integral type)
+5) A, D - Good
+6) C, E - Good
+7) G - Good 
+8) B, E - Good 
+9) C, E, F - Good 
+10) C - Good 
+11) D, E - (A, D, E. A - var is not reserved and can be used as identifier)
+12 ) H - (A, E, F . A) - check again
+13) B, D, H - Good
+14) B, F, G (B,C,F - C - var can not be used for instance or class variable.) 
+15) G (C, F, G - C, F - 0b is prefix for binary and 0x is prefix for hexa. These can be assiged to primitives including int and foble) 
+16) A, C, D - Good
+17) A, B, F, G (A, E, F, G - E variables declared in loops are accesible only inside statement. B variables can be declared inside initializer blocks)
+18) A, F, G - (F,G - Code does not complie so A, B, C and D are incorrect)
+19) F - Good
+20) H - (D - Initializer blocks are not called until the class is instantiated)
+21) A, F (A, D, F )
+22) C, D, E, (H - var cant be used as instance variable declarations)

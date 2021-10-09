@@ -1,0 +1,21 @@
+Review Questions Answers:
+1 - A, D, F(A, D, G - G. You can cast a boolean variable since boolean is a type)
+2 - A, B, D - Good
+3 - B, C, D, F - Good
+4 - D (B. CHECK IT) 
+5 - C, E, F, G (A, C -B and E ade decreasing order of precedence, D,F,G no increasing or decreasing order of precedence)
+6 - F - Good
+7 - D - Good
+8 - E (A. Code compiles since compound operator applies casting automatically. REMEMBER THIS.)
+9 - G (A, D, E - Code compiles without issue. CHECK AGAIN)
+10 - B, C, F (G. Code does not compile. second line, promotion by multiplying)
+11 - D -- OJO - Good
+12 - D - Good
+13 - F - Good
+14 - B, E, G - Good
+15 - D - Good
+16 - B - Good
+17 - G(C,F - Compliles because compound assignment auto casts. C. )
+18 - C - Good
+19 - B, D (B, F - F. it was 12)
+20 - A, C, E(A,D,E - D. CHECK)
